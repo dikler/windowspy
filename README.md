@@ -2,11 +2,11 @@
 
 # 🕵️ Window Spy /AHK (Holux Edition)
 
-**Versión con tema oscuro (Holux) optimizada de Window Spy para AHK, soporte de idioma (localización al español) y cuadros de texto integrados.**
+**Versión con tema oscuro (Holux) optimizada de Window Spy para AHK, soporte de idioma y cuadros de texto integrados.**
 
 ---
 
-## 📸 El Cambio Radical (Antes vs. Después)
+## 📸 Tema (Antes vs. Después)
 La version con tema oscuro es con la intencion de mejorar la accesibilidad con el modo claro y el esfuerzo visual a los usuarios. 
 Aquí la diferencia:
 
@@ -19,10 +19,10 @@ Aquí la diferencia:
 ---
 
 ## ✨ Ficha // Características principales
-* **Tema Oscuro Nativo:** Interfaz rediseñada para proteger la vista.
-* **Localización Completa:** Traducido al español con precisión técnica.
-* **Cuadros de Texto Activos:** Copia títulos, clases y posiciones sin errores.
-* **Flujo Optimizado:** Diseñado para vivir en tu barra de herramientas.
+* **Tema oscuro nativo:** Interfaz rediseñada para proteger la vista.
+* **Localización total:** Traduccion con español internacional (ES_MX/UTF8).
+* **Cuadros de texto activos:** Copia relativa de títulos, clases y posiciones sin errores.
+* **Flujo optimizado:** Diseño con soporte para barra de herramientas.
 
 
 ## 🚀 Uso // Instalación y configuración
