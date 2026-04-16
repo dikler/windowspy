@@ -1,5 +1,5 @@
-<img width="546" height="609" alt="Demo_WindowSpy_Es(Ux)" src="https://github.com/user-attachments/assets/77566cf9-eadb-4a27-b9fe-f69760de8cfa" />
-<img width="354" height="571" alt="Demo_WindowSpy_v1" src="https://github.com/user-attachments/assets/1bb15581-fec2-4e04-b19c-3c74c26d3964" />
+
+
 # 🕵️ Window Spy for AHKv2 (Holux Edition)
 
 **Versión optimizada de Window Spy para AHKv2 con tema oscuro, localización al español y cuadros de texto integrados.**
@@ -11,7 +11,7 @@ Para los que pasamos horas frente al monitor, el modo claro es el enemigo. Aquí
 
 | ⚪ Versión Original (Classic) | ⚫ Holux Edition (Dark/ES) |
 | :---: | :---: |
-| ![Classic](https://github.com/dikler/windowspy/blob/main/img/before.jpg) | ![Holux](https://github.com/dikler/windowspy/blob/main/img/after.jpg) |
+| ![Classic](<img width="546" height="609" alt="Demo_WindowSpy_Es(Ux)" src="https://github.com/user-attachments/assets/77566cf9-eadb-4a27-b9fe-f69760de8cfa" />) | ![Holux](<img width="354" height="571" alt="Demo_WindowSpy_v1" src="https://github.com/user-attachments/assets/1bb15581-fec2-4e04-b19c-3c74c26d3964" />) |
 
 ---
 
