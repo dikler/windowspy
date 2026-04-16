@@ -18,25 +18,26 @@ Aquí la diferencia:
 <img width="911" height="700" alt="imagen" src="https://github.com/user-attachments/assets/b0abd818-742f-4295-84f4-4341a5a56f79" />
 ---
 
-## ✨ Características Principales
+## ✨ Ficha // Características principales
 * **Tema Oscuro Nativo:** Interfaz rediseñada para proteger la vista.
 * **Localización Completa:** Traducido al español con precisión técnica.
 * **Cuadros de Texto Activos:** Copia títulos, clases y posiciones sin errores.
 * **Flujo Optimizado:** Diseñado para vivir en tu barra de herramientas.
 
 
-## 🚀 Instalación y Uso
-1.  Descarga el archivo `.ahk` desde la sección de **Releases**.
-2.  Ejecútalo directamente con **AutoHotkey v2**.
-3.  (Opcional) Agrégalo como herramienta externa en **Notepad++**.
+## 🚀 Uso // Instalación y configuración
+1.  Descargar archivo `.ahk` desde la sección de "Revisiones" (**Releases**).
+2.  Ejecútar directamente (AutoHotkey/AHK).
 
-## 🛠️ Integración con Notepad++
-Para añadir el botón a tu barra de herramientas:
-1.  Abre Notepad++ y ve a `Ejecutar` -> `Ejecutar...`
-2.  Pega la ruta de tu script: `"C:\Ruta\A\WindowSpy_Es(Ux).ahk"`
-3.  Haz clic en **"Guardar"**, asígnale un nombre y un atajo de teclado.
-4.  *Tip:* Usa el plugin **"Customize Toolbar"** para asignarle el icono de la lupa.
+
+## 🛠️ Integración // Barras
+
+1.  (Opcional) Soporte compatible como utilidad (barra de iconos / Notepad++).
+2.  Abrir aplicacion (Notepad++) y añadir un botón a la barra de herramientas: menu `Ejecutar` -> `Ejecutar...`
+3.  Pegar la ruta del codigo (`"C:\Ruta\A\WindowSpy_Es(Ux).ahk"`)
+4.  Guardar con un nombre y un atajo de teclado.
+5.  Nota: Usar complemento (plugin / **"Customize Toolbar"**) para asignar icono por defecto ("lupa").
 
 ---
-**🤝 Créditos:** Esta es una mejora bajo el **Protocolo Holux**.
+**🤝 Créditos:** Version de tema oscuro optimizada y actualizada con **Protocolo Holux**.
 **Autor:** [@dikler](https://github.com/dikler)
