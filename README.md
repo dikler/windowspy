@@ -11,6 +11,8 @@ La version con tema oscuro es con la intencion de mejorar la accesibilidad con e
 Aquí la diferencia:
 
 | ⚪ Versión Original (Classic)  vs  ⚫ Version Holux (Dark Edition) |
+
+
 <img width="911" height="700" alt="imagen" src="https://github.com/user-attachments/assets/b0abd818-742f-4295-84f4-4341a5a56f79" />
 ---
 
