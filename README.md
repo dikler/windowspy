@@ -7,12 +7,11 @@
 ---
 
 ## 📸 El Cambio Radical (Antes vs. Después)
-Para los que pasamos horas frente al monitor, el modo claro es el enemigo. Aquí la diferencia:
+La version con tema oscuro es con la intencion de mejorar la accesibilidad con el modo claro y el esfuerzo visual a los usuarios. 
+Aquí la diferencia:
 
-| ⚪ Versión Original (Classic) | ⚫ Holux Edition (Dark/ES) |
-| :---: | :---: |
-| ![Classic](<img width="546" height="609" alt="Demo_WindowSpy_Es(Ux)" src="https://github.com/user-attachments/assets/77566cf9-eadb-4a27-b9fe-f69760de8cfa" />) | ![Holux](<img width="354" height="571" alt="Demo_WindowSpy_v1" src="https://github.com/user-attachments/assets/1bb15581-fec2-4e04-b19c-3c74c26d3964" />) |
-
+| ⚪ Versión Original (Classic)  vs  ⚫ Version Holux (Dark Edition) |
+<img width="911" height="700" alt="imagen" src="https://github.com/user-attachments/assets/b0abd818-742f-4295-84f4-4341a5a56f79" />
 ---
 
 ## ✨ Características Principales
@@ -20,7 +19,7 @@ Para los que pasamos horas frente al monitor, el modo claro es el enemigo. Aquí
 * **Localización Completa:** Traducido al español con precisión técnica.
 * **Cuadros de Texto Activos:** Copia títulos, clases y posiciones sin errores.
 * **Flujo Optimizado:** Diseñado para vivir en tu barra de herramientas.
-<img width="911" height="700" alt="imagen" src="https://github.com/user-attachments/assets/b0abd818-742f-4295-84f4-4341a5a56f79" />
+
 
 ## 🚀 Instalación y Uso
 1.  Descarga el archivo `.ahk` desde la sección de **Releases**.
