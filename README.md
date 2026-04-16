@@ -20,7 +20,7 @@ Aquí la diferencia:
 ---
 
 ## ✨ Ficha // Características principales
-* **Tema oscuro nativo:** Interfaz rediseñada para proteger la vista.
+* **Tema oscuro nativo:** Interfaz personalizada con accesibilidad visual.
 * **Localización total:** Traduccion con español internacional (ES_MX/UTF8).
 * **Cuadros de texto activos:** Copia relativa de títulos, clases y posiciones sin errores.
 * **Flujo optimizado:** Diseño con soporte para barra de herramientas.
