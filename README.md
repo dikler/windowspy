@@ -2,7 +2,7 @@
 
 # 🕵️ Window Spy /AHK (Holux Edition)
 
-**Versión optimizada de Window Spy para AHKv2 con tema oscuro, localización al español y cuadros de texto integrados.**
+**Versión con tema oscuro (Holux) optimizada de Window Spy para AHK, soporte de idioma (localización al español) y cuadros de texto integrados.**
 
 ---
 
