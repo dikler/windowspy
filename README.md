@@ -1,27 +1,37 @@
-# windowspy
-Versión optimizada de Window Spy para AHKv2 con tema oscuro, localización al español y cuadros de texto integrados.
+# 🕵️ Window Spy for AHKv2 (Holux Edition)
 
-🚀 Instalación y Uso
-Descarga el archivo .ahk desde la sección de Releases.
+**Versión optimizada de Window Spy para AHKv2 con tema oscuro, localización al español y cuadros de texto integrados.**
 
-Ejecútalo directamente con AutoHotkey v2.
+---
 
-(Opcional) Agrégalo como una herramienta externa en Notepad++ para un acceso ultra rápido.
+## 📸 El Cambio Radical (Antes vs. Después)
+Para los que pasamos horas frente al monitor, el modo claro es el enemigo. Aquí la diferencia:
 
-🛠️ Integración con Notepad++
-Para añadir el botón a tu barra de herramientas como se ve en la demo:
+| ⚪ Versión Original (Classic) | ⚫ Holux Edition (Dark/ES) |
+| :---: | :---: |
+| ![Classic](https://github.com/dikler/windowspy/blob/main/img/before.jpg) | ![Holux](https://github.com/dikler/windowspy/blob/main/img/after.jpg) |
 
-Abre Notepad++ y ve a Ejecutar -> Ejecutar...
+---
 
-Pega la ruta de tu script: "C:\Ruta\A\WindowSpy_Es(Ux).ahk"
+## ✨ Características Principales
+* **Tema Oscuro Nativo:** Interfaz rediseñada para proteger la vista.
+* **Localización Completa:** Traducido al español con precisión técnica.
+* **Cuadros de Texto Activos:** Copia títulos, clases y posiciones sin errores.
+* **Flujo Optimizado:** Diseñado para vivir en tu barra de herramientas.
+<img width="911" height="700" alt="imagen" src="https://github.com/user-attachments/assets/b0abd818-742f-4295-84f4-4341a5a56f79" />
 
-Haz clic en "Guardar", asígnale un nombre y un atajo de teclado.
+## 🚀 Instalación y Uso
+1.  Descarga el archivo `.ahk` desde la sección de **Releases**.
+2.  Ejecútalo directamente con **AutoHotkey v2**.
+3.  (Opcional) Agrégalo como herramienta externa en **Notepad++**.
 
-Tip: Puedes usar el plugin "Customize Toolbar" para asignarle el icono de la "lupa oscura".
+## 🛠️ Integración con Notepad++
+Para añadir el botón a tu barra de herramientas:
+1.  Abre Notepad++ y ve a `Ejecutar` -> `Ejecutar...`
+2.  Pega la ruta de tu script: `"C:\Ruta\A\WindowSpy_Es(Ux).ahk"`
+3.  Haz clic en **"Guardar"**, asígnale un nombre y un atajo de teclado.
+4.  *Tip:* Usa el plugin **"Customize Toolbar"** para asignarle el icono de la lupa.
 
-🤝 Créditos y Colaboración
-Esta es una mejora de la utilidad original de AutoHotkey, adaptada bajo el protocolo Holux.
-
-Autor: @dikler / Holux
-
-Agradecimientos: A la comunidad de AHK por la base técnica y a los usuarios de Notepad++ por el feedback de flujo.
+---
+**🤝 Créditos:** Esta es una mejora bajo el **Protocolo Holux**.
+**Autor:** [@dikler](https://github.com/dikler)
