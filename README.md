@@ -7,9 +7,8 @@
 ---
 
 ## 📸 Tema (Antes vs. Después)
-La version con tema oscuro es con la intencion de mejorar la accesibilidad con el modo claro y el esfuerzo visual a los usuarios.
-
-Aquí la diferencia:
+La version con tema oscuro es con la intencion de mejorar la accesibilidad y el esfuerzo visual a los usuarios. Aquí la diferencia radica en la integracion 
+de librerias legadas (Windows 32b / https://github.com/Abdelrhman-AK/WinPaletter ) con el modo claro:
 
 
 | ⚪ Versión Original (Classic)          vs          ⚫ Version Holux (Dark Edition) |
