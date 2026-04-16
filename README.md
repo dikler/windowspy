@@ -7,7 +7,8 @@
 ---
 
 ## 📸 Tema (Antes vs. Después)
-La version con tema oscuro es con la intencion de mejorar la accesibilidad con el modo claro y el esfuerzo visual a los usuarios. 
+La version con tema oscuro es con la intencion de mejorar la accesibilidad con el modo claro y el esfuerzo visual a los usuarios.
+
 Aquí la diferencia:
 
 
